@@ -31,20 +31,22 @@ Pour vous guider dans le choix des balises, des attributs et des valeurs d'attri
 Pour chacune des pages ci-dessous, les textes alternatifs sont-ils adéquats ?Commenter votre observation. Pourrait-on faire mieux ? Donnez un exemple de ce que vous proposeriez.
 
 - https://www.sail.ca/fr/chaussures/junior/multi-sport-et-plein-air 
------
------
------
-[capture-écran]()
+Les descriptions sont peu précises sur la page d'accueil, mais gagnent en clarté sur la page de produit. Il manque des descriptions à certains endroits.
+<img src="images/1-textes-alternatifs/1-2/accueil-sails.png">
+<img src="images/1-textes-alternatifs/1-2/produits-sails.png">
+<hr>
+
 - https://amzn.to/2NnbKPN 
------
------
------
-[capture-écran]()
+Les descriptions sont précises et présentes à chaque fois qu'il y a une image et sur toutes les pages. Seulement il n'y a pas de descriptions pour le logo d'amazon qui ramène sur la page d'accueil.
+
+<img src="images/1-textes-alternatifs/1-2/amazon-accueil.png">
+
+<img src="images/1-textes-alternatifs/1-2/amazon-produit.png">
+<hr>
+
 - https://www.lesoleil.com/  
------
------
------
-[capture-écran]()
+Les descriptions ne décrivent pas vraiment ce qui est présent dans l'image, mais reprennent seulement les titres des articles.
+<img src="images/1-textes-alternatifs/1-2/lesoleil.png">
 - https://www.rad.ca/  
 -----
 -----
