@@ -83,10 +83,7 @@ __Tutoriel sur les formulaires du w3c__
 [Table des matières (outline)](images/3-table-des-matieres_h1-h6/3-1/tuto-form-w3c-outline.png) 
 
 Réponse : 
-
-----
-----
-----
+ Oui, la table des matières est en ordre. Un seul h1 est présent et il n'y a pas de h3, car les h2 n'ont pas de sous-titres.
 
 __L’affaire Savtchenko__ 
 [Article](images/3-table-des-matieres_h1-h6/3-1/article-savtchenko.pdf)  
@@ -94,10 +91,7 @@ __L’affaire Savtchenko__
   
 Réponse : 
 
-----
-----
-----
-
+La seule erreur que je pourrais noter est le fait qu'il y a deux h1 sur la page, toutefois, l'un d'entre eux ne semble pas visible sur la page (missing heading), donc je ne sais pas si cela constitue vraiment un problème.
 
 #### 3.2 S'exercer à bien structurer
 
@@ -105,7 +99,7 @@ Réponse :
 - Ajouter un calque de blanc à 50% de transparence
 - Dans un 3e calque, par-dessus, identifiez les titres et leurs niveaux (h1-h6) de manière voyante (couleur rouge et font-size suffisant)
 - Sauvegarder au format .psd ou .png dans le même dossier.
-- [Relier ce fichier-réponse ici]()
+- [images/3-table-des-matieres_h1-h6/3-2/exercice-termine.pdf]()
 
 ### 4. Baliser un tableau de données pour qu’il soit accessible
 
